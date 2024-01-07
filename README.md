@@ -4,7 +4,7 @@
 1. This project is build with Java Spring Boot Framework.
 2. POSTMAN is used for testing the REST api.
 3. The api maps to: ```http://localhost:8080/fibonacci```.
-4. The docker file is name ```DockerFile```
+4. The docker file is named ```DockerFile```
 5. React application is in folder ```fib-app```
 
 ## Docker build and test
