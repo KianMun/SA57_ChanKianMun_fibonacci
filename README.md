@@ -6,7 +6,7 @@
 3. The api maps to: ```http://localhost:8080/fibonacci```.
 4. The docker file is named ```DockerFile```
 5. React application is in folder ```fib-app```
-6. The react app maps to: ```http://localhost:3000/```
+6. The React application maps to: ```http://localhost:3000/```
 
 ## Docker build and test
 1. Run docker.
